@@ -5,3 +5,4 @@
 ^tests$
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^elastic$
